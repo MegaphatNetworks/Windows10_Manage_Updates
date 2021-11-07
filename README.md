@@ -1,4 +1,4 @@
-# Windows10 Manage Updates
+# Windows 10 Manage Updates
 Gives you - the user the power to turn on and of Windows Updates without affecting the WU services.
 
 ```
